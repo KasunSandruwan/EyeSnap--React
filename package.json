@@ -8,7 +8,7 @@
     "express": "^4.16.2",
     "firebase": "^4.2.0",
     "izitoast": "^1.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "material-ui": "1.0.0-beta.16",
     "material-ui-icons": "^1.0.0-beta.15",
     "react": "^16.0.0",
